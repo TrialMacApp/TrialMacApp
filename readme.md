@@ -41,7 +41,7 @@
 - SwiftUI writes interactive interface and rejects Appkit
 - Passwords are encrypted using keychains
 - Native code writing injection plug-ins
-- **The code is open source and free**
+- **The injection library is closed source and the UI is open source **
 - **No need to turn off SIP to crack all apps**
 
 ### Advantages over other cracking software

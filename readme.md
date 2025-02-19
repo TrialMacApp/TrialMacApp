@@ -15,6 +15,8 @@ _Here are some gadgets I developed._
 ![](https://img.shields.io/github/stars/TrialMacApp/TrialMacApp)
 ![](https://img.shields.io/github/forks/TrialMacApp/TrialMacApp)
 
+<hr>
+
 ### [trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app)
 
 ![](https://img.shields.io/badge/Open%20source%20GUI%20code-4AB001)
@@ -26,6 +28,8 @@ _Here are some gadgets I developed._
 
 It is very simple to crack macOS programs. It has a graphical interface. You only need to select the app you want to crack and click the mouse.
 
+<hr>
+
 ### [trial-iOS-app](https://github.com/TrialAppleApp/trial-iOS-app)
 
 ![](https://img.shields.io/badge/Closed%20source%20code-DD2F10)
@@ -35,6 +39,8 @@ It is very simple to crack macOS programs. It has a graphical interface. You onl
 ![](https://img.shields.io/github/forks/TrialAppleApp/trial-iOS-app)
 
 To simply crack the iOS program, you can choose the packaged ipa, or download dylib/deb and inject it yourself.
+
+<hr>
 
 ### [InjectiPA](https://github.com/TrialAppleApp/InjectiPA)
 
@@ -46,6 +52,8 @@ To simply crack the iOS program, you can choose the packaged ipa, or download dy
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/InjectiPA)
 
 A macOS program that can inject dylib into ipa with a simple drag and drop operation
+
+<hr>
 
 ## 📝 License
 

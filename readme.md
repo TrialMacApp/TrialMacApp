@@ -6,7 +6,7 @@ _Here are some gadgets I developed._
 
 ## 🛠️ My Tools
 
-### [The old trial-macOS-app repository](https://github.com/TrialMacApp/TrialMacApp)
+### _The old trial-macOS-app repository_
 
 ![](https://img.shields.io/github/downloads/TrialMacApp/TrialMacApp/total.svg?style=flat)
 ![](https://img.shields.io/github/release-pre/TrialMacApp/TrialMacApp.svg?style=flat)

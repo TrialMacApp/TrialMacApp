@@ -6,7 +6,7 @@ _以下是我开发的一些小工具_
 
 ## 🛠️ 工具集
 
-### [trial-macOS-app 旧储存库](https://github.com/TrialMacApp/TrialMacApp)
+### _The old trial-macOS-app repository_
 
 ![](https://img.shields.io/github/downloads/TrialMacApp/TrialMacApp/total.svg?style=flat)
 ![](https://img.shields.io/github/release-pre/TrialMacApp/TrialMacApp.svg?style=flat)

@@ -4,6 +4,8 @@
 
 _以下是我开发的一些小工具_
 
+<a href="https://t.me/TrialMacAppChannel"><img src="https://img.shields.io/badge/Join%20Channel-Telegram-brightgreen.svg" alt="Join on Telegram Channel" /></a>
+
 ## 🛠️ 工具集
 
 ### _The old trial-macOS-app repository_
@@ -54,11 +56,3 @@ _以下是我开发的一些小工具_
 一个 macOS 程序，可以通过简单的拖放操作将 dylib 注入到 ipa 中。
 
 <hr>
-
-## 📝 开源协议
-
-本集合中的所有工具都是遵循 GNU 通用公共许可证（GPL）的开源软件。
-
-## ⭐ Support
-
-如果我的项目有用，请为他们点一个免费的星星

@@ -4,6 +4,8 @@
 
 _Here are some gadgets I developed._
 
+<a href="https://t.me/TrialMacAppChannel"><img src="https://img.shields.io/badge/Join%20Channel-Telegram-brightgreen.svg" alt="Join on Telegram Channel" /></a>
+
 ## 🛠️ My Tools
 
 ### _The old trial-macOS-app repository_
@@ -52,13 +54,3 @@ To simply crack the iOS program, you can choose the packaged ipa, or download dy
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/InjectiPA)
 
 A macOS program that can inject dylib into ipa with a simple drag and drop operation
-
-<hr>
-
-## 📝 License
-
-All tools in this collection are open source software licensed under the GNU General Public License (GPL).
-
-## ⭐ Support
-
-If you find any of these tools useful, feel free to star them on GitHub!

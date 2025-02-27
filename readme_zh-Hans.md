@@ -53,6 +53,6 @@ _以下是我开发的一些小工具_
 ![](https://img.shields.io/github/forks/TrialAppleApp/InjectiPA)
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/InjectiPA)
 
-一个 macOS 程序，可以通过简单的拖放操作将 dylib 注入到 ipa 中。
+一个 macOS 程序，可以通过简单的拖放操作将 dylib 或 deb 注入到 ipa 中。
 
 <hr>

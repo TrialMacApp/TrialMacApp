@@ -53,4 +53,4 @@ To simply crack the iOS program, you can choose the packaged ipa, or download dy
 ![](https://img.shields.io/github/forks/TrialAppleApp/InjectiPA)
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/InjectiPA)
 
-A macOS program that can inject dylib into ipa with a simple drag and drop operation
+A macOS program that can inject dylib or deb into ipa with a simple drag and drop operation

@@ -54,3 +54,16 @@ To simply crack the iOS program, you can choose the packaged ipa, or download dy
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/InjectiPA)
 
 A macOS program that can inject dylib or deb into ipa with a simple drag and drop operation
+
+<hr>
+
+### [AppleDebugger](https://github.com/TrialMacApp/AppleDebugger)
+
+![](https://img.shields.io/badge/Open%20source%20all%20code-4AB001)
+![](https://img.shields.io/github/license/TrialMacApp/AppleDebugger)
+![](https://img.shields.io/badge/platform-macOS-blue.svg?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/TrialMacApp/AppleDebugger)
+![](https://img.shields.io/github/forks/TrialMacApp/AppleDebugger)
+![](https://img.shields.io/github/languages/top/TrialMacApp/AppleDebugger)
+
+Use Xcode to dynamically debug ipa, supporting UI analysis and code injection

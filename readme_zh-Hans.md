@@ -56,3 +56,14 @@ _以下是我开发的一些小工具_
 一个 macOS 程序，可以通过简单的拖放操作将 dylib 或 deb 注入到 ipa 中。
 
 <hr>
+
+### [AppleDebugger](https://github.com/TrialMacApp/AppleDebugger)
+
+![](https://img.shields.io/badge/Open%20source%20all%20code-4AB001)
+![](https://img.shields.io/github/license/TrialMacApp/AppleDebugger)
+![](https://img.shields.io/badge/platform-macOS-blue.svg?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/TrialMacApp/AppleDebugger)
+![](https://img.shields.io/github/forks/TrialMacApp/AppleDebugger)
+![](https://img.shields.io/github/languages/top/TrialMacApp/AppleDebugger)
+
+使用 Xcode 动态调试 ipa，支持 UI 分析和代码注入

@@ -4,8 +4,6 @@
 
 _Here are some gadgets I developed._
 
-<a href="https://t.me/TrialMacAppChannel"><img src="https://img.shields.io/badge/Join%20Channel-Telegram-brightgreen.svg" alt="Join on Telegram Channel" /></a>
-
 ## 🛠️ My Tools
 
 ### _The old trial-macOS-app repository_
@@ -21,6 +19,8 @@ _Here are some gadgets I developed._
 
 ### [trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app)
 
+_It is very simple to crack macOS programs. It has a graphical interface. You only need to select the app you want to crack and click the mouse._
+
 ![](https://img.shields.io/badge/Open%20source%20GUI%20code-4AB001)
 ![](https://img.shields.io/github/license/TrialAppleApp/trial-macOS-app)
 ![](https://img.shields.io/badge/platform-macOS-blue.svg?style=flat)
@@ -28,11 +28,11 @@ _Here are some gadgets I developed._
 ![](https://img.shields.io/github/forks/TrialAppleApp/trial-macOS-app)
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/trial-macOS-app)
 
-It is very simple to crack macOS programs. It has a graphical interface. You only need to select the app you want to crack and click the mouse.
-
 <hr>
 
 ### [trial-iOS-app](https://github.com/TrialAppleApp/trial-iOS-app)
+
+_To simply crack the iOS program, you can choose the packaged ipa, or download dylib/deb and inject it yourself._
 
 ![](https://img.shields.io/badge/Closed%20source%20code-DD2F10)
 ![](https://img.shields.io/github/license/TrialAppleApp/trial-iOS-app)
@@ -40,11 +40,11 @@ It is very simple to crack macOS programs. It has a graphical interface. You onl
 ![GitHub stars](https://img.shields.io/github/stars/TrialAppleApp/trial-iOS-app)
 ![](https://img.shields.io/github/forks/TrialAppleApp/trial-iOS-app)
 
-To simply crack the iOS program, you can choose the packaged ipa, or download dylib/deb and inject it yourself.
-
 <hr>
 
 ### [InjectiPA](https://github.com/TrialAppleApp/InjectiPA)
+
+_A macOS program that can inject dylib or deb into ipa with a simple drag and drop operation_
 
 ![](https://img.shields.io/badge/Open%20source%20all%20code-4AB001)
 ![](https://img.shields.io/github/license/TrialAppleApp/InjectiPA)
@@ -53,11 +53,11 @@ To simply crack the iOS program, you can choose the packaged ipa, or download dy
 ![](https://img.shields.io/github/forks/TrialAppleApp/InjectiPA)
 ![](https://img.shields.io/github/languages/top/TrialAppleApp/InjectiPA)
 
-A macOS program that can inject dylib or deb into ipa with a simple drag and drop operation
-
 <hr>
 
 ### [AppleDebugger](https://github.com/TrialMacApp/AppleDebugger)
+
+_Use Xcode to dynamically debug ipa, supporting UI analysis and code injection_
 
 ![](https://img.shields.io/badge/Open%20source%20all%20code-4AB001)
 ![](https://img.shields.io/github/license/TrialMacApp/AppleDebugger)
@@ -65,5 +65,3 @@ A macOS program that can inject dylib or deb into ipa with a simple drag and dro
 ![GitHub stars](https://img.shields.io/github/stars/TrialMacApp/AppleDebugger)
 ![](https://img.shields.io/github/forks/TrialMacApp/AppleDebugger)
 ![](https://img.shields.io/github/languages/top/TrialMacApp/AppleDebugger)
-
-Use Xcode to dynamically debug ipa, supporting UI analysis and code injection

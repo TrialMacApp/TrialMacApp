@@ -6,17 +6,6 @@ _以下是我开发的一些小工具_
 
 ## 🛠️ 工具集
 
-### _The old trial-macOS-app repository_
-
-![](https://img.shields.io/github/downloads/TrialMacApp/TrialMacApp/total.svg?style=flat)
-![](https://img.shields.io/github/release-pre/TrialMacApp/TrialMacApp.svg?style=flat)
-![](https://img.shields.io/badge/platform-macOS-blue.svg?style=flat)
-![GPL License](https://img.shields.io/badge/License-GPL-blue.svg)
-![](https://img.shields.io/github/stars/TrialMacApp/TrialMacApp)
-![](https://img.shields.io/github/forks/TrialMacApp/TrialMacApp)
-
-<hr>
-
 ### [trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app)
 
 _非常简单的破解 macOS 程序，它有一个图形化界面。你只要选中你想要破解的程序，然后鼠标点击破解即可。_

@@ -6,17 +6,6 @@ _Here are some gadgets I developed._
 
 ## 🛠️ My Tools
 
-### _The old trial-macOS-app repository_
-
-![](https://img.shields.io/github/downloads/TrialMacApp/TrialMacApp/total.svg?style=flat)
-![](https://img.shields.io/github/release-pre/TrialMacApp/TrialMacApp.svg?style=flat)
-![](https://img.shields.io/badge/platform-macOS-blue.svg?style=flat)
-![GPL License](https://img.shields.io/badge/License-GPL-blue.svg)
-![](https://img.shields.io/github/stars/TrialMacApp/TrialMacApp)
-![](https://img.shields.io/github/forks/TrialMacApp/TrialMacApp)
-
-<hr>
-
 ### [trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app)
 
 _It is very simple to crack macOS programs. It has a graphical interface. You only need to select the app you want to crack and click the mouse._
